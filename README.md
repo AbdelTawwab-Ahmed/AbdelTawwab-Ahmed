@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdeltawwab Ahmed
+# 👋🏻 Hi, I'm Abdeltawwab Ahmed
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=300&color=007C91&center=true&vCenter=true&width=900&lines=AI+Engineer;GenAI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+LangChain+%7C+LangGraph)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=300&color=007C91&center=true&vCenter=true&width=900&lines=AI+Engineer;GenAI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+LangChain+%7C+LangGraph)](https://git.io/typing-svg)
 
 </div>
 
@@ -125,27 +125,24 @@ Built NLP pipelines and REST APIs with **FastAPI and Gemini**, and contributed t
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Let's Connect
 
 <p align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AbdelTawwab-Ahmed&show_icons=true&theme=transparent&hide_border=true"
-    height="180"
-  />
+  <a href="https://www.linkedin.com/in/abdel-tawwab-ahmed">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelTawwab-Ahmed&layout=compact&theme=transparent&hide_border=true"
-    height="180"
-  />
+  <a href="mailto:mohamedahmed17122000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-</p>
+  <a href="https://wa.me/201119538974">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=AbdelTawwab-Ahmed&theme=transparent&hide_border=true"
-    height="180"
-  />
+  <a href="https://github.com/AbdelTawwab-Ahmed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 </p>
