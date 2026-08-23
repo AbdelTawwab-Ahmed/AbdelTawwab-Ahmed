@@ -2,7 +2,7 @@
 
 # 👋🏻 Hi, I'm Abdeltawwab Ahmed
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=300&color=007C91&center=true&vCenter=true&width=900&lines=AI+Engineer;GenAI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+LangChain+%7C+LangGraph)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=300&color=007C91&center=true&vCenter=true&width=900&lines=AI+Engineer;GenAI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+LangChain+%7C+LangGraph)](https://git.io/typing-svg)
 
 </div>
 
