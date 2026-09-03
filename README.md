@@ -94,6 +94,21 @@ I'm particularly interested in turning LLM capabilities into **reliable, useful,
 
 ## 🚀 Featured Projects
 
+
+### 🧠 Advanced Arabic RAG System
+
+An advanced **Arabic-first RAG system** designed to handle **multiple Arabic dialects and English**, with robust retrieval over complex documents containing tables and structured data.
+
+Built with **hybrid search** and multiple advanced retrieval strategies, using **LangGraph-based query routing** to dynamically select the most suitable retrieval technique for each query.
+
+Includes **RAGAS-based evaluation** for measuring retrieval and generation quality, with **Qdrant** as the vector database and **Streamlit** for the user interface.
+
+**Tech:** Python • LangChain • LangGraph • Qdrant • Hybrid Search • RAGAS • Streamlit • LLMs
+
+[🔗 View Project](https://github.com/AbdelTawwab-Ahmed/Advanced-Arabic-RAG)
+
+---
+
 ### 🔍 Multi-Source RAG System
 
 A production-oriented **Multi-Source RAG system** that ingests documents from multiple sources into a unified vector database, supports conversational memory, source filtering, and citations.
