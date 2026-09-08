@@ -109,6 +109,18 @@ Includes **RAGAS-based evaluation** for measuring retrieval and generation quali
 
 ---
 
+### 🌠 PR Review Assistant
+
+A **multi-agent AI code review system** that automatically analyzes GitHub Pull Requests using **4 specialized agents** for PR analysis, code quality, testing, and review summarization.
+
+Built with a **LangGraph Supervisor workflow** and **MCP + GitHub API** for repository interaction, with a **Human-in-the-Loop approval gate** before executing GitHub actions.
+
+**Tech:** Python • LangGraph • MCP • GitHub API • LLMs • Agentic AI • HITL • Docker
+
+[🔗 View Project](https://github.com/AbdelTawwab-Ahmed/PR-Assistant-Multi-Agents)
+
+---
+
 ### 🔍 Multi-Source RAG System
 
 A production-oriented **Multi-Source RAG system** that ingests documents from multiple sources into a unified vector database, supports conversational memory, source filtering, and citations.
